@@ -1,0 +1,11 @@
+F:\ProjectNhom\bin\Debug\Project_QLDA.exe.config
+F:\ProjectNhom\bin\Debug\Project_QLDA.exe
+F:\ProjectNhom\bin\Debug\Project_QLDA.pdb
+F:\ProjectNhom\obj\Debug\Project_QLDA.csproj.AssemblyReference.cache
+F:\ProjectNhom\obj\Debug\Project_QLDA.Form1.resources
+F:\ProjectNhom\obj\Debug\Project_QLDA.Properties.Resources.resources
+F:\ProjectNhom\obj\Debug\Project_QLDA.csproj.GenerateResource.cache
+F:\ProjectNhom\obj\Debug\Project_QLDA.csproj.CoreCompileInputs.cache
+F:\ProjectNhom\obj\Debug\Project_QLDA.exe
+F:\ProjectNhom\obj\Debug\Project_QLDA.pdb
+F:\ProjectNhom\obj\Debug\Project_QLDA.exe.config
