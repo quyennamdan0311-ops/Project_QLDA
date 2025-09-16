@@ -1,6 +1,6 @@
 ﻿namespace Project_QLDA
 {
-    partial class Form1
+    partial class bienspace
     {
         /// <summary>
         /// Required designer variable.

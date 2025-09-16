@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Project_QLDA
 {
-    public partial class Form1 : Form
+    public partial class bienspace : Form
     {
-        public Form1()
+        public bienspace()
         {
             InitializeComponent();
         }
